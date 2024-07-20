@@ -1,14 +1,15 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
- <h1 align="center"> ## Hi 👋, I'm Sai Santhosh </h1>
+ <h1 align="center"> Hi 👋, I'm Sai Santhosh </h1>
 <h3 align="center">A Passionate Frontend Web Developer From India</h3>
 <img align= "right" alt= "javascript" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Node.js and MYSQL**
+- Currently Working on **Backend Development**
 
-- 💬 Ask me about **Frontend Development**
+- Currently Learning **Node.js, Express.js and Database (MySQL and MongoDB)**
 
-- 📫 How to reach me **saisanthosh2218@gmail.com**
+- Main Domain Knowledge on**Frontend Development**
+
+- Reach me **saisanthosh2218@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

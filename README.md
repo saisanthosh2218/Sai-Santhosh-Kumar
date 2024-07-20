@@ -10,8 +10,10 @@
 - Main Domain Knowledge on **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
+
 - Email : saisanthosh2218@gmail.com
 - LinkedIn : https://www.linkedin.com/in/sai-santhosh-gundeti-5909532a9/
+  
 <p align="left">
 </p>
 
